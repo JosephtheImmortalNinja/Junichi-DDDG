@@ -1,0 +1,223 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "junichi.storm_blaze.awesomeninjaxd",
+	"version": "2.0",
+	"dependencies": [],
+	"characters": [
+		{
+			"id": "junichi",
+			"label": "Junichi",
+			"chibi": "./chibi.png",
+			"heads": {
+				"heads": {
+					"variants": [
+						[
+							"./bn.png",
+							"./en.png",
+							"./mn.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./bn.png",
+							"./en.png",
+							"./ms.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./bn.png",
+							"./en.png",
+							"./ml.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./ba.png",
+							"./en.png",
+							"./mm.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./br.png",
+							"./ec.png",
+							"./mm.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./br.png",
+							"./es.png",
+							"./mt.png",
+							"./blush2.png",
+							"./base.png"
+						],
+						[
+							"./br.png",
+							"./er.png",
+							"./mo.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./br.png",
+							"./eh.png",
+							"./my.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./br.png",
+							"./en.png",
+							"./mo.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./br.png",
+							"./es.png",
+							"./mf.png",
+							"./blush2.png",
+							"./base.png"
+						],
+						[
+							"./ba.png",
+							"./es.png",
+							"./mt.png",
+							"./blush1.png",
+							"./base.png"
+						],
+						[
+							"./bn.png",
+							"./en.png",
+							"./ml.png",
+							"./blush2.png",
+							"./base.png"
+						],
+						[
+							"./bn.png",
+							"./en.png",
+							"./mo.png",
+							"./blush2.png",
+							"./base.png"
+						],
+						[
+							"./bn.png",
+							"./en.png",
+							"./mf.png",
+							"./blush2.png",
+							"./base.png"
+						],
+						[
+							"./bn.png",
+							"./es.png",
+							"./mt.png",
+							"./blush1.png",
+							"./base.png"
+						]
+					]
+				}
+			},
+			"styleGroups": [
+				{
+					"id": "uniform",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1l.png",
+												"./1r.png"
+											],
+											[
+												"./1l.png",
+												"./2r.png"
+											],
+											[
+												"./2l.png",
+												"./1r.png"
+											],
+											[
+												"./2l.png",
+												"./2r.png"
+											]
+										],
+										"Left": []
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "casual",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1bl.png",
+												"./1br.png"
+											],
+											[
+												"./1bl.png",
+												"./2br.png"
+											],
+											[
+												"./2bl.png",
+												"./1br.png"
+											],
+											[
+												"./2bl.png",
+												"./2br.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "winter",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1wl.png",
+												"./1wr.png"
+											],
+											[
+												"./1wl.png",
+												"./2wr.png"
+											],
+											[
+												"./2wl.png",
+												"./1wr.png"
+											],
+											[
+												"./2wl.png",
+												"./2wr.png"
+											]
+										]
+									}
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

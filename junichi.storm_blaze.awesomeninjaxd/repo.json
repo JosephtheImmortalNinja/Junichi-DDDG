@@ -1,0 +1,31 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/repo_schema.json",
+	"authors": {
+		"storm_blaze": {}
+	},
+	"pack": {
+		"authors": [
+			"storm_blaze"
+		],
+		"characters": [
+			"Junichi"
+		],
+		"description": "",
+		"id": "junichi.storm_blaze.awesomeninjaxd",
+		"name": "Junichi",
+		"kind": [
+			"Characters"
+		],
+		"preview": [
+			"./blush1.png",
+			"./ms.png",
+			"./en.png",
+			"./bn.png",
+			"./1l.png",
+			"./1r.png",
+			"./base.png"
+		],
+		"source": "https://www.reddit.com/r/DDLCMods/comments/1494gby/new_oc_sprites_junichi_drawn_by_ustormblazed76/",
+		"dddg2Path": "./index.json"
+	}
+}
