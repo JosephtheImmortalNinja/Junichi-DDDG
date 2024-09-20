@@ -12,11 +12,11 @@
 				"heads": {
 					"variants": [
 						[
+							"./base.png",
 							"./bn.png",
 							"./en.png",
 							"./mn.png",
-							"./blush1.png",
-							"./base.png"
+							"./blush1.png"
 						],
 						[
 							"./bn.png",
