@@ -1,0 +1,172 @@
+{
+	"$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v2/schema.json",
+	"packId": "junichi.storm_blaze.awesomeninjaxd",
+	"version": "2.0",
+	"dependencies": [],
+	"characters": [
+		{
+			"id": "junichi",
+			"label": "Junichi",
+			"chibi": "./chibi.png",
+			"heads": {
+				"heads": {
+					"variants": [
+						[
+							"./a.png"
+						],
+						[
+							"./b.png"
+						],
+						[
+							"./c.png"
+						],
+						[
+							"./d.png"
+						],
+						[
+							"./e.png"
+						],
+						[
+							"./f.png"
+						],
+						[
+							"./g.png"
+						],
+						[
+							"./h.png"
+						],
+						[
+							"./i.png"
+						],
+						[
+							"./j.png"
+						],
+						[
+							"./k.png"
+						],
+						[
+							"./l.png"
+						],
+						[
+							"./m.png"
+						],
+						[
+							"./n.png"
+						],
+						[
+							"./o.png"
+						]
+					]
+				}
+			},
+			"styleGroups": [
+				{
+					"id": "uniform",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1l.png",
+												"./1r.png"
+											],
+											[
+												"./1l.png",
+												"./2r.png"
+											],
+											[
+												"./2l.png",
+												"./1r.png"
+											],
+											[
+												"./2l.png",
+												"./2r.png"
+											]
+										],
+										"Left": []
+									},
+									"compatibleHeads": [
+										"heads"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "casual",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1bl.png",
+												"./1br.png"
+											],
+											[
+												"./1bl.png",
+												"./2br.png"
+											],
+											[
+												"./2bl.png",
+												"./1br.png"
+											],
+											[
+												"./2bl.png",
+												"./2br.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"heads"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "winter",
+					"styles": [
+						{
+							"poses": [
+								{
+									"id": "base",
+									"positions": {
+										"Variant": [
+											[
+												"./1wl.png",
+												"./1wr.png"
+											],
+											[
+												"./1wl.png",
+												"./2wr.png"
+											],
+											[
+												"./2wl.png",
+												"./1wr.png"
+											],
+											[
+												"./2wl.png",
+												"./2wr.png"
+											]
+										]
+									},
+									"compatibleHeads": [
+										"heads"
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
