@@ -147,7 +147,10 @@
 											]
 										],
 										"Left": []
-									}
+									},
+									"compatibleHeads": [
+										"heads"
+									]
 								}
 							]
 						}
@@ -179,7 +182,10 @@
 												"./2br.png"
 											]
 										]
-									}
+									},
+									"compatibleHeads": [
+										"heads"
+									]
 								}
 							]
 						}
@@ -211,7 +217,10 @@
 												"./2wr.png"
 											]
 										]
-									}
+									},
+									"compatibleHeads": [
+										"heads"
+									]
 								}
 							]
 						}
